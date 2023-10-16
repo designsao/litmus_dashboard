@@ -1,0 +1,13 @@
+.help-center {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.help-center .combined-shape {
+  height: 20px;
+  left: 6px;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}

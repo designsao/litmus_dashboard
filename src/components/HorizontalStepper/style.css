@@ -1,0 +1,41 @@
+.horizontal-stepper {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  width: 720px;
+}
+
+.horizontal-stepper .atoms-horizontal-stepper {
+  display: flex !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+}
+
+.horizontal-stepper .atoms-horizontal-instance {
+  align-self: stretch !important;
+  display: flex !important;
+  width: 100% !important;
+}
+
+.horizontal-stepper .atoms-horizontal-stepper-instance {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 1px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: unset !important;
+}
+
+.horizontal-stepper .atoms-horizontal-2 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: 2px !important;
+  object-fit: cover !important;
+  position: relative !important;
+}
+
+.horizontal-stepper .atoms-horizontal-3 {
+  margin-left: -1px !important;
+  margin-right: -1px !important;
+}

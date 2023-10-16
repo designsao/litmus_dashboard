@@ -1,0 +1,268 @@
+.medium-large-nav {
+  display: inline-flex;
+  position: relative;
+}
+
+.medium-large-nav .label {
+  color: #ffffff;
+  position: relative;
+  width: fit-content;
+}
+
+.medium-large-nav .communities-instance {
+  position: relative !important;
+}
+
+.medium-large-nav .class {
+  left: unset !important;
+  width: 24px !important;
+}
+
+.medium-large-nav .class-2 {
+  left: 7px !important;
+}
+
+.medium-large-nav .class-3 {
+  width: 18px !important;
+}
+
+.medium-large-nav .text-wrapper {
+  color: #ffffff;
+  position: relative;
+  width: fit-content;
+}
+
+.medium-large-nav .div {
+  color: #ffffff;
+  position: relative;
+  width: fit-content;
+}
+
+.medium-large-nav .applications {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.medium-large-nav .img {
+  height: 20px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.medium-large-nav .label-2 {
+  color: #ffffff;
+  position: relative;
+  width: fit-content;
+}
+
+.medium-large-nav .label-3 {
+  color: #ffffff;
+  position: relative;
+  width: fit-content;
+}
+
+.medium-large-nav .label-4 {
+  color: #ffffff;
+  position: relative;
+  width: fit-content;
+}
+
+.medium-large-nav .label-5 {
+  color: #ffffff;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.medium-large-nav.medium {
+  align-items: center;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+}
+
+.medium-large-nav.large {
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.medium-large-nav .selected {
+  font-family: var(--desktop-side-nav-selected-bold-font-family);
+  font-size: var(--desktop-side-nav-selected-bold-font-size);
+  font-style: var(--desktop-side-nav-selected-bold-font-style);
+  font-weight: var(--desktop-side-nav-selected-bold-font-weight);
+  letter-spacing: var(--desktop-side-nav-selected-bold-letter-spacing);
+  line-height: var(--desktop-side-nav-selected-bold-line-height);
+}
+
+.medium-large-nav .device-medium {
+  text-align: center;
+}
+
+.medium-large-nav .device-large {
+  margin-top: -1px;
+}
+
+.medium-large-nav .default {
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.medium-large-nav .state-selected {
+  font-family: var(--desktop-side-nav-selected-bold-font-family);
+  font-size: var(--desktop-side-nav-selected-bold-font-size);
+  font-style: var(--desktop-side-nav-selected-bold-font-style);
+  font-weight: var(--desktop-side-nav-selected-bold-font-weight);
+  letter-spacing: var(--desktop-side-nav-selected-bold-letter-spacing);
+  line-height: var(--desktop-side-nav-selected-bold-line-height);
+}
+
+.medium-large-nav .device-0-medium {
+  text-align: center;
+}
+
+.medium-large-nav .device-0-large {
+  margin-top: -1px;
+}
+
+.medium-large-nav .state-default {
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.medium-large-nav .state-0-selected {
+  font-family: var(--desktop-side-nav-selected-bold-font-family);
+  font-size: var(--desktop-side-nav-selected-bold-font-size);
+  font-style: var(--desktop-side-nav-selected-bold-font-style);
+  font-weight: var(--desktop-side-nav-selected-bold-font-weight);
+  letter-spacing: var(--desktop-side-nav-selected-bold-letter-spacing);
+  line-height: var(--desktop-side-nav-selected-bold-line-height);
+}
+
+.medium-large-nav .device-1-medium {
+  text-align: center;
+}
+
+.medium-large-nav .device-1-large {
+  margin-top: -1px;
+}
+
+.medium-large-nav .state-0-default {
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.medium-large-nav .state-1-selected {
+  font-family: var(--desktop-side-nav-selected-bold-font-family);
+  font-size: var(--desktop-side-nav-selected-bold-font-size);
+  font-style: var(--desktop-side-nav-selected-bold-font-style);
+  font-weight: var(--desktop-side-nav-selected-bold-font-weight);
+  letter-spacing: var(--desktop-side-nav-selected-bold-letter-spacing);
+  line-height: var(--desktop-side-nav-selected-bold-line-height);
+}
+
+.medium-large-nav .device-2-medium {
+  text-align: center;
+}
+
+.medium-large-nav .device-2-large {
+  margin-top: -1px;
+}
+
+.medium-large-nav .device-2-medium.state-1-default {
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.medium-large-nav .device-2-large.state-1-default {
+  font-family: var(--desktop-side-nav-default-regular-font-family);
+  font-size: var(--desktop-side-nav-default-regular-font-size);
+  font-style: var(--desktop-side-nav-default-regular-font-style);
+  font-weight: var(--desktop-side-nav-default-regular-font-weight);
+  letter-spacing: var(--desktop-side-nav-default-regular-letter-spacing);
+  line-height: var(--desktop-side-nav-default-regular-line-height);
+}
+
+.medium-large-nav .state-2-selected {
+  font-family: var(--desktop-side-nav-selected-bold-font-family);
+  font-size: var(--desktop-side-nav-selected-bold-font-size);
+  font-style: var(--desktop-side-nav-selected-bold-font-style);
+  font-weight: var(--desktop-side-nav-selected-bold-font-weight);
+  letter-spacing: var(--desktop-side-nav-selected-bold-letter-spacing);
+  line-height: var(--desktop-side-nav-selected-bold-line-height);
+}
+
+.medium-large-nav .device-3-medium {
+  text-align: center;
+}
+
+.medium-large-nav .device-3-large {
+  margin-top: -1px;
+}
+
+.medium-large-nav .state-2-default {
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.medium-large-nav .state-3-selected {
+  font-family: var(--desktop-side-nav-selected-bold-font-family);
+  font-size: var(--desktop-side-nav-selected-bold-font-size);
+  font-style: var(--desktop-side-nav-selected-bold-font-style);
+  font-weight: var(--desktop-side-nav-selected-bold-font-weight);
+  letter-spacing: var(--desktop-side-nav-selected-bold-letter-spacing);
+  line-height: var(--desktop-side-nav-selected-bold-line-height);
+}
+
+.medium-large-nav .device-4-medium {
+  text-align: center;
+}
+
+.medium-large-nav .device-4-large {
+  margin-top: -1px;
+}
+
+.medium-large-nav .state-3-default {
+  font-family: var(--desktop-side-nav-default-regular-font-family);
+  font-size: var(--desktop-side-nav-default-regular-font-size);
+  font-style: var(--desktop-side-nav-default-regular-font-style);
+  font-weight: var(--desktop-side-nav-default-regular-font-weight);
+  letter-spacing: var(--desktop-side-nav-default-regular-letter-spacing);
+  line-height: var(--desktop-side-nav-default-regular-line-height);
+}
+
+.medium-large-nav .state-4-selected {
+  font-family: var(--desktop-side-nav-selected-bold-font-family);
+  font-size: var(--desktop-side-nav-selected-bold-font-size);
+  font-style: var(--desktop-side-nav-selected-bold-font-style);
+  font-weight: var(--desktop-side-nav-selected-bold-font-weight);
+  letter-spacing: var(--desktop-side-nav-selected-bold-letter-spacing);
+  line-height: var(--desktop-side-nav-selected-bold-line-height);
+}
+
+.medium-large-nav .state-4-default {
+  font-family: var(--desktop-side-nav-default-regular-font-family);
+  font-size: var(--desktop-side-nav-default-regular-font-size);
+  font-style: var(--desktop-side-nav-default-regular-font-style);
+  font-weight: var(--desktop-side-nav-default-regular-font-weight);
+  letter-spacing: var(--desktop-side-nav-default-regular-letter-spacing);
+  line-height: var(--desktop-side-nav-default-regular-line-height);
+}

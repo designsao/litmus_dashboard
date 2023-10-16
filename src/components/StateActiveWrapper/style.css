@@ -1,0 +1,56 @@
+.state-active-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.state-active-wrapper .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.state-active-wrapper .atoms-line-inactive {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 54px;
+}
+
+.state-active-wrapper .class-5 {
+  background-color: #d4d4d4 !important;
+}
+
+.state-active-wrapper .atoms-step-inactive {
+  align-items: center;
+  background-color: #d4d4d4;
+  border-radius: 90px;
+  display: flex;
+  flex-direction: column;
+  height: 31px;
+  justify-content: center;
+  padding: 6px 12px;
+  position: relative;
+  width: 32px;
+}
+
+.state-active-wrapper .element-2 {
+  color: #ffffff;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.state-active-wrapper .atoms-step-name-instance {
+  flex: 0 0 auto !important;
+}

@@ -1,0 +1,51 @@
+.horizontal-stepper-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 720px;
+}
+
+.horizontal-stepper-wrapper .atoms-horizontal-stepper-timeline-title {
+  flex: 0 0 auto !important;
+}
+
+.horizontal-stepper-wrapper .atoms-horizontal-stepper-timeline-title-instance {
+  color: #ffffff !important;
+  font-family: "Open Sans", Helvetica !important;
+  font-weight: 600 !important;
+}
+
+.horizontal-stepper-wrapper .horizontal-stepper-steps {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.horizontal-stepper-wrapper .horizontal-stepper-instance {
+  font-family: "Open Sans", Helvetica !important;
+  margin-bottom: -0.5px !important;
+  margin-left: -1px !important;
+  margin-right: -1px !important;
+  margin-top: -2.5px !important;
+  white-space: unset !important;
+}
+
+.horizontal-stepper-wrapper .horizontal-stepper-steps-instance {
+  color: #979797 !important;
+  font-family: "Open Sans", Helvetica !important;
+  white-space: unset !important;
+}
+
+.horizontal-stepper-wrapper .design-component-instance-node {
+  color: #979797 !important;
+  font-family: "Open Sans", Helvetica !important;
+  font-weight: 600 !important;
+  white-space: unset !important;
+}
+
+.horizontal-stepper-wrapper .horizontal-stepper-2 {
+  font-family: "Open Sans", Helvetica !important;
+  white-space: unset !important;
+}

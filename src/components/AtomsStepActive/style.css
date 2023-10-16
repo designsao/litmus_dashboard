@@ -1,0 +1,25 @@
+.atoms-step-active {
+  align-items: center;
+  background-color: #728dec;
+  border-radius: 90px;
+  display: flex;
+  flex-direction: column;
+  height: 31px;
+  justify-content: center;
+  padding: 6px 12px;
+  position: relative;
+  width: 32px;
+}
+
+.atoms-step-active .element {
+  color: #ffffff;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

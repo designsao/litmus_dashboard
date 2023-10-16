@@ -1,0 +1,33 @@
+.atoms-step-name {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+}
+
+.atoms-step-name .step {
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atoms-step-name .inactive {
+  color: #d4d4d4;
+  font-family: "SF Pro Display-Regular", Helvetica;
+}
+
+.atoms-step-name .active {
+  color: #333333;
+  font-family: "SF Pro Display-Regular", Helvetica;
+}
+
+.atoms-step-name .current {
+  color: #333333;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+}

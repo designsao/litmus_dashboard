@@ -1,0 +1,607 @@
+.litmus-dashboard {
+  background-color: #070221;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.litmus-dashboard .div-2 {
+  background-color: #070221;
+  height: 1761px;
+  position: relative;
+  width: 1920px;
+}
+
+.litmus-dashboard .tab {
+  height: 60px;
+  left: 352px;
+  overflow: hidden;
+  position: absolute;
+  top: 1020px;
+  width: 1060px;
+}
+
+.litmus-dashboard .overlap-group-3 {
+  height: 6px;
+  left: -1px;
+  position: absolute;
+  top: 55px;
+  width: 1060px;
+}
+
+.litmus-dashboard .rectangle {
+  background-color: var(--neutral-coloursgray-100);
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 1059px;
+}
+
+.litmus-dashboard .rectangle-2 {
+  background-color: #4832cb;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 532px;
+}
+
+.litmus-dashboard .recommended {
+  color: var(--neutral-colourswhite);
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 170px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 19px;
+  width: 224px;
+}
+
+.litmus-dashboard .your-topics {
+  color: var(--neutral-coloursgray-100);
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 720px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 149px;
+}
+
+.litmus-dashboard .top-picks-for-you {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 353px;
+  letter-spacing: 0;
+  line-height: 42px;
+  position: absolute;
+  top: 962px;
+  width: 348px;
+}
+
+.litmus-dashboard .upcoming-events {
+  height: 480px;
+  left: 1445px;
+  position: absolute;
+  top: 400px;
+  width: 475px;
+}
+
+.litmus-dashboard .overlap {
+  height: 480px;
+  position: relative;
+}
+
+.litmus-dashboard .rectangle-3 {
+  background-color: #211a38;
+  height: 480px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 475px;
+}
+
+.litmus-dashboard .trending-now-for {
+  height: 378px;
+  left: 61px;
+  position: absolute;
+  top: 39px;
+  width: 351px;
+}
+
+.litmus-dashboard .event {
+  height: 320px;
+  left: 0;
+  position: absolute;
+  top: 58px;
+  width: 351px;
+}
+
+.litmus-dashboard .image {
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 120px;
+  width: 350px;
+}
+
+.litmus-dashboard .workforce {
+  color: var(--accent-coloursteal);
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 4px;
+  width: 350px;
+}
+
+.litmus-dashboard .business-foundation {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 51px;
+  width: 350px;
+}
+
+.litmus-dashboard .element-pm-GMT {
+  color: var(--neutral-coloursgray-100);
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+  width: 350px;
+}
+
+.litmus-dashboard .trending-now {
+  color: var(--neutral-colourswhite);
+  font-family: "Open Sans", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 42px;
+  position: absolute;
+  top: -4px;
+  white-space: nowrap;
+}
+
+.litmus-dashboard .header {
+  background-color: transparent;
+  background-image: url(https://c.animaapp.com/S5qOUeiW/img/image-1.png);
+  background-size: 100% 100%;
+  height: 304px;
+  left: 353px;
+  position: absolute;
+  top: 96px;
+  width: 1567px;
+}
+
+.litmus-dashboard .overlap-group-wrapper {
+  height: 304px;
+  opacity: 0.94;
+  width: 1567px;
+}
+
+.litmus-dashboard .overlap-group-4 {
+  height: 117px;
+  left: 54px;
+  position: relative;
+  top: 93px;
+  width: 1082px;
+}
+
+.litmus-dashboard .communities-2 {
+  color: var(--neutral-colourswhite);
+  font-family: "Open Sans", Helvetica;
+  font-size: 52px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 78px;
+  position: absolute;
+  top: 0;
+  width: 1082px;
+}
+
+.litmus-dashboard .here-for-you-today {
+  color: var(--neutral-colourswhite);
+  font-family: "Open Sans", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 42px;
+  position: absolute;
+  top: 75px;
+  width: 1026px;
+}
+
+.litmus-dashboard .top-nav {
+  height: 96px;
+  left: 319px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1601px;
+}
+
+.litmus-dashboard .overlap-2 {
+  background-color: #070221;
+  height: 98px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1603px;
+}
+
+.litmus-dashboard .oman-javed {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 31px;
+  left: 1386px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: right;
+  top: 34px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.litmus-dashboard .chevron-down {
+  height: 23px !important;
+  left: 1539px !important;
+  position: absolute !important;
+  top: 37px !important;
+  width: 24px !important;
+}
+
+.litmus-dashboard .form-fields {
+  height: 51px;
+  left: 1095px;
+  position: absolute;
+  top: 26px;
+  width: 280px;
+}
+
+.litmus-dashboard .search {
+  height: 24px;
+  left: 232px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.litmus-dashboard .large-sidenav-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.litmus-dashboard .large-sidenav-2 {
+  font-family: "Open Sans", Helvetica !important;
+  font-size: 18px !important;
+  font-style: unset !important;
+  font-weight: 400 !important;
+  letter-spacing: 0 !important;
+  line-height: normal !important;
+}
+
+.litmus-dashboard .large-sidenav-3 {
+  font-family: "Open Sans", Helvetica !important;
+  font-size: 18px !important;
+  font-style: unset !important;
+  font-weight: 700 !important;
+  letter-spacing: 0 !important;
+  line-height: normal !important;
+}
+
+.litmus-dashboard .your-communities {
+  height: 488px;
+  left: 353px;
+  position: absolute;
+  top: 432px;
+  width: 1061px;
+}
+
+.litmus-dashboard .discussions {
+  height: 264px;
+  left: 0;
+  position: absolute;
+  top: 224px;
+  width: 1059px;
+}
+
+.litmus-dashboard .post {
+  height: 264px;
+  left: 543px;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}
+
+.litmus-dashboard .overlap-3 {
+  background-color: var(--secondary-colourspurple-400);
+  border-radius: 6px;
+  height: 264px;
+  position: relative;
+  width: 516px;
+}
+
+.litmus-dashboard .icon-home-desktop-wrapper {
+  background-image: url(https://c.animaapp.com/S5qOUeiW/img/bgicon@2x.png);
+  background-size: 100% 100%;
+  height: 62px;
+  left: 421px;
+  position: absolute;
+  top: 19px;
+  width: 60px;
+}
+
+.litmus-dashboard .icon-home-desktop {
+  height: 47px;
+  left: 7px;
+  position: absolute;
+  top: 8px;
+  width: 47px;
+}
+
+.litmus-dashboard .posted-in-london-wom {
+  color: var(--neutral-coloursgray-100);
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 15px;
+  width: 288px;
+}
+
+.litmus-dashboard .user {
+  height: 14px;
+  left: 21px;
+  position: absolute;
+  top: 19px;
+  width: 18px;
+}
+
+.litmus-dashboard .overlap-4 {
+  height: 14px;
+  position: relative;
+}
+
+.litmus-dashboard .shape {
+  height: 7px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.litmus-dashboard .overlap-group-5 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.litmus-dashboard .shape-2 {
+  height: 5px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.litmus-dashboard .path {
+  height: 7px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.litmus-dashboard .path-2 {
+  height: 5px;
+  left: 11px;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+
+.litmus-dashboard .text-wrapper-2 {
+  color: var(--secondary-coloursblue-300);
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 222px;
+  width: 129px;
+}
+
+.litmus-dashboard .a-big-thank-you-to-a {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 110px;
+  width: 475px;
+}
+
+.litmus-dashboard .user-2 {
+  height: 48px;
+  left: 21px;
+  position: absolute;
+  top: 48px;
+  width: 293px;
+}
+
+.litmus-dashboard .mildred-hanson {
+  color: #ffffff;
+  font-family: var(--desktop-body-small-text-1-semibold-font-family);
+  font-size: var(--desktop-body-small-text-1-semibold-font-size);
+  font-style: var(--desktop-body-small-text-1-semibold-font-style);
+  font-weight: var(--desktop-body-small-text-1-semibold-font-weight);
+  left: 65px;
+  letter-spacing: var(--desktop-body-small-text-1-semibold-letter-spacing);
+  line-height: var(--desktop-body-small-text-1-semibold-line-height);
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 227px;
+}
+
+.litmus-dashboard .thumbnail {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.litmus-dashboard .overlap-wrapper {
+  height: 264px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}
+
+.litmus-dashboard .img-wrapper {
+  background-image: url(https://c.animaapp.com/S5qOUeiW/img/bgicon-1@2x.png);
+  background-size: 100% 100%;
+  height: 62px;
+  left: 421px;
+  position: absolute;
+  top: 19px;
+  width: 60px;
+}
+
+.litmus-dashboard .your-communities-2 {
+  color: #ffffff;
+  font-family: var(--desktop-heading-h4-semibold-font-family);
+  font-size: var(--desktop-heading-h4-semibold-font-size);
+  font-style: var(--desktop-heading-h4-semibold-font-style);
+  font-weight: var(--desktop-heading-h4-semibold-font-weight);
+  left: 1px;
+  letter-spacing: var(--desktop-heading-h4-semibold-letter-spacing);
+  line-height: var(--desktop-heading-h4-semibold-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.litmus-dashboard .horizontal-stepper-component {
+  left: 1px !important;
+  position: absolute !important;
+  top: 69px !important;
+}
+
+.litmus-dashboard .content-tile {
+  height: 280px;
+  left: 352px;
+  position: absolute;
+  top: 1112px;
+  width: 1060px;
+}
+
+.litmus-dashboard .text {
+  height: 193px;
+  left: 0;
+  position: absolute;
+  top: 43px;
+  width: 514px;
+}
+
+.litmus-dashboard .p {
+  color: var(--accent-coloursteal);
+  font-family: var(--desktop-body-label-semibold-font-family);
+  font-size: var(--desktop-body-label-semibold-font-size);
+  font-style: var(--desktop-body-label-semibold-font-style);
+  font-weight: var(--desktop-body-label-semibold-font-weight);
+  left: 1px;
+  letter-spacing: var(--desktop-body-label-semibold-letter-spacing);
+  line-height: var(--desktop-body-label-semibold-line-height);
+  position: absolute;
+  top: 0;
+  width: 318px;
+}
+
+.litmus-dashboard .text-wrapper-3 {
+  color: var(--neutral-coloursgray-100);
+  font-family: var(--desktop-body-body-3-regular-font-family);
+  font-size: var(--desktop-body-body-3-regular-font-size);
+  font-style: var(--desktop-body-body-3-regular-font-style);
+  font-weight: var(--desktop-body-body-3-regular-font-weight);
+  left: 0;
+  letter-spacing: var(--desktop-body-body-3-regular-letter-spacing);
+  line-height: var(--desktop-body-body-3-regular-line-height);
+  position: absolute;
+  top: 91px;
+  width: 468px;
+}
+
+.litmus-dashboard .text-wrapper-4 {
+  color: #ffffff;
+  font-family: var(--desktop-body-body-2-bold-font-family);
+  font-size: var(--desktop-body-body-2-bold-font-size);
+  font-style: var(--desktop-body-body-2-bold-font-style);
+  font-weight: var(--desktop-body-body-2-bold-font-weight);
+  left: 0;
+  letter-spacing: var(--desktop-body-body-2-bold-letter-spacing);
+  line-height: var(--desktop-body-body-2-bold-line-height);
+  position: absolute;
+  top: 24px;
+  width: 508px;
+}
+
+.litmus-dashboard .img-2 {
+  height: 280px;
+  left: 558px;
+  position: absolute;
+  top: 0;
+  width: 502px;
+}
+
+.litmus-dashboard .content-tile-2 {
+  height: 280px;
+  left: 352px;
+  position: absolute;
+  top: 1424px;
+  width: 1060px;
+}

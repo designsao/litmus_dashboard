@@ -1,0 +1,13 @@
+.events {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.events .icon-3 {
+  height: 20px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}

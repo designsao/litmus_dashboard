@@ -1,0 +1,23 @@
+.large-sidenav {
+  align-items: flex-start;
+  background-color: var(--primary-coloursdark);
+  display: inline-flex;
+  flex-direction: column;
+  gap: 70px;
+  height: 681px;
+  position: relative;
+}
+
+.large-sidenav .frame-2 {
+  align-items: flex-start;
+  background-color: var(--primary-coloursdark);
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 20px 0px 0px;
+  position: relative;
+}
+
+.large-sidenav .nav-tabs {
+  position: relative !important;
+}

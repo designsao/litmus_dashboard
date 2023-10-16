@@ -1,0 +1,13 @@
+.toolkit {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.toolkit .icon-7 {
+  height: 20px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}

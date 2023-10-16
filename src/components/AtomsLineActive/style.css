@@ -1,0 +1,8 @@
+.atoms-line-active {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
